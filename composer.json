@@ -1,0 +1,19 @@
+{
+    "name": "berenis/tempconv",
+    "description": "A dead simple tempereture",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Berenis\\Tempconv\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dzeko003",
+            "email": "berenismassamba@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
